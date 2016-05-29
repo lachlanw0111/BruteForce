@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1464444535 source:c:\users\lachl\onedrive\applications\cab301\assignment2\main.cpp
+	"stdafx.h"
+	<string>
+	<iostream>
+	<ctime>
+	<chrono>
+	<fstream>
+	<tgmath.h>
+	<math.h>
+	<stdlib.h>
+	<cstdio>
+
+1464437844 c:\users\lachl\onedrive\applications\cab301\assignment2\stdafx.h
+
